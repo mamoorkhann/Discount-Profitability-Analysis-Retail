@@ -1,7 +1,6 @@
-# Discount and Profitability Analysis for a Multi-Region Retail Business
-
-**Prepared by:** Mamoor Khan, Data and Business Intelligence Analyst
-**Tool:** Microsoft Excel
+# Discount and Profitability Analysis for a Multi-Region Retail Business 
+**Prepared by:** Mamoor Khan, Data and Business Intelligence Analyst<br />
+**Tool:** Microsoft Excel<br />
 **Dataset:** US Retail Superstore Transactions, 2014 to 2017, 9,994 orders across 21 fields
 
 ---
