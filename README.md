@@ -20,6 +20,16 @@ This project investigates why a US retail business grew revenue 51% over four ye
 The business recorded $2,297,200 in total sales between 2014 and 2017 with an overall profit margin of 12.47%. Despite consistent revenue growth, profit margin peaked at 13.43% in 2016 and dropped to 12.74% in 2017. Leadership needed to understand which product lines, regions, and customer segments were driving this decline and what commercial decisions were causing it.
 
 ---
+## KPI Summary
+
+| Metric | Value |
+|---|---|
+| Total Sales | $2,297,200.86 |
+| Total Profit | $286,397.02 |
+| Profit Margin | 12.47% |
+| Total Orders | 9,994 |
+| Total Quantity Sold | 37,873 |
+| Average Order Value | $229.86 |
 
 ![KPI Cards](Images/kpi_cards.PNG)
 
@@ -130,6 +140,8 @@ Mamoor Khan is a Data and Business Intelligence Analyst based in Peshawar, Pakis
 - Data Analytics and Business Intelligence, DigiSkills, March 2026
 - Introduction to Data Analytics, Simplilearn, February 2026
 - AI for Business Professionals, HP LIFE, January 2026
+- Presenting Data, HP LIFE, January 2026
+- AI for Beginners, HP LIFE, December 2024
 
 **Connect:**
 - LinkedIn: https://www.linkedin.com/in/mamoor-khan/
